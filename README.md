@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Niharika</h1>
-<h3 align="center">I am coding enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharika-bhogathi&label=Profile%20views&color=0e75b6&style=flat" alt="niharika-bhogathi" /> </p>
 
 - 🔭 I’m currently studying **computer science**
 
-- 🌱 I’m currently learning **Django, Front end and cloud computing**
+- 🌱 I’m currently learning about **Data Analytics and Cloud Computing**
 
-- 💬 Ask me about **c,c++ and python**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **bhogathiniharika@gmail.com**
 
